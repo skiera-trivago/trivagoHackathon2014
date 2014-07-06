@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="/socket.io/socket.io.js"></script>
+    <script type="text/javascript">
+        var socketio = io.connect("127.0.0.1:8888");
+        socketio.on("send_items", function(data) {
+            console.log("daten event");
+        });
+        function sendMessage()
+        {
+            var msg = document.getElementById("message_input").value;
+            socketio.emit("send_items", { message : msg});
+        }
+
+        function emitEvent(event)
+        {
+            socketio.emit(event);
+        }
+    </script>
+</head>
+<body>
+<textarea name="message_input" rows="30" cols="80" id="message_input">
+{
+    "identifier": "name",
+    "label": "name",
+    "items": [
+        {
+            "type": "legs",
+            "name": "greece1",
+            "country": "Greece",
+            "stops": [
+                {
+                    "name": "greece_spain11",
+                    "port": {
+                        "_reference": "Greece"
+                    },
+                    "date": "2011-03-30",
+                    "capacity": "1"
+                },
+                {
+                    "name": "greece_spain12",
+                    "port": {
+                        "_reference": "Spain"
+                    },
+                    "date": "2011-03-30",
+                    "capacity": "1"
+                }
+            ]
+        }
+    ]
+}
+</textarea>
+<button onclick="sendMessage()">send</button>
+<br /><br />
+<button onclick="emitEvent('load_testdata_germany')">test data germany</button>
+<br /><br />
+<button onclick="emitEvent('load_testdata_monthly')">test data monthly</button>
+<br /><br />
+<button onclick="emitEvent('load_testdata_yearly')">test data yearly</button>
+<br /><br />
+<button onclick="emitEvent('toggle_redis_job')">toggle cronjob</button>
+</body>
+</html>

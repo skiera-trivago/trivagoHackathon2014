@@ -1,0 +1,1976 @@
+{
+    "identifier": "name",
+    "label": "name",
+    "items": [
+        {
+            "type": "port",
+            "name": "\\0",
+            "longitude": 25.485830,
+            "latitude": 42.733883,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Afghanistan",
+            "latitude": 33,
+            "longitude": 65,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Albania",
+            "latitude": 41,
+            "longitude": 20,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Algeria",
+            "latitude": 28,
+            "longitude": 3,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "American Samoa",
+            "latitude": -14.3333,
+            "longitude": -170,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Andorra",
+            "latitude": 42.5,
+            "longitude": 1.6,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Angola",
+            "latitude": -12.5,
+            "longitude": 18.5,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Antigua and Barbuda",
+            "latitude": 17.05,
+            "longitude": -61.8,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Argentina",
+            "latitude": -34,
+            "longitude": -64,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Armenia",
+            "latitude": 40,
+            "longitude": 45,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Aruba",
+            "latitude": 12.5,
+            "longitude": -69.9667,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Australia",
+            "longitude": 115.857468,
+            "latitude": -31.953005,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Austria",
+            "longitude": 11.394700,
+            "latitude": 47.262699,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Azerbaijan",
+            "longitude": 49.893192,
+            "latitude": 40.383068,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Bahamas",
+            "longitude": -78.654510,
+            "latitude": 26.529640,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Bahrain",
+            "longitude": 50.583748,
+            "latitude": 26.216747,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Bangladesh",
+            "longitude": 90.407143,
+            "latitude": 23.709921,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Barbados",
+            "longitude": -59.597366,
+            "latitude": 13.075832,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Belarus",
+            "longitude": 23.837345,
+            "latitude": 53.678463,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Belgium",
+            "longitude": 4.405800,
+            "latitude": 51.218399,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Belize",
+            "longitude": -88.191803,
+            "latitude": 17.500771,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Benin",
+            "longitude": 2.432400,
+            "latitude": 6.351100,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Bermudas",
+            "longitude": -64.787560,
+            "latitude": 32.267258,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "BES Islands",
+            "longitude": -68.274818,
+            "latitude": 12.150450,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Bhutan",
+            "longitude": 89.667328,
+            "latitude": 27.442610,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Bolivia",
+            "longitude": -63.197418,
+            "latitude": -17.788790,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Bosnia and Herzegovina",
+            "longitude": 18.413076,
+            "latitude": 43.856258,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Botswana",
+            "longitude": 25.256201,
+            "latitude": -17.806700,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Brazil",
+            "longitude": -43.178181,
+            "latitude": -22.906700,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "British Virgin Islands",
+            "longitude": -64.000000,
+            "latitude": 18.000000,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Brunei",
+            "longitude": 114.942497,
+            "latitude": 4.943100,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Bulgaria",
+            "longitude": 23.322285,
+            "latitude": 42.697624,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Burkina Faso",
+            "longitude": -1.533864,
+            "latitude": 12.364637,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Burundi",
+            "longitude": 29.371220,
+            "latitude": -3.368694,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Cambodia",
+            "longitude": 104.898399,
+            "latitude": 11.543400,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Cameroon",
+            "longitude": 11.521700,
+            "latitude": 3.861200,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Canada",
+            "longitude": -123.936661,
+            "latitude": 49.164379,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Cape Verde",
+            "longitude": -22.718599,
+            "latitude": 16.192600,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Caribbean",
+            "longitude": -61.767075,
+            "latitude": 12.007126,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Cayman Islands",
+            "longitude": -81.381699,
+            "latitude": 19.333866,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Chad",
+            "longitude": 15.033300,
+            "latitude": 12.116600,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Chile",
+            "longitude": -71.620361,
+            "latitude": -33.045647,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "China",
+            "longitude": 120.172974,
+            "latitude": 30.273977,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Colombia",
+            "longitude": -75.526329,
+            "latitude": 10.414252,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Congo",
+            "longitude": 15.283333,
+            "latitude": -4.266667,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Cook Islands",
+            "longitude": -159.799896,
+            "latitude": -18.865520,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Costa Rica",
+            "longitude": -84.221260,
+            "latitude": 10.016440,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Croatia",
+            "longitude": 14.414802,
+            "latitude": 45.337761,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Cuba",
+            "longitude": -82.364098,
+            "latitude": 23.132000,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Curacao",
+            "longitude": -68.933479,
+            "latitude": 12.103441,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Cyprus",
+            "longitude": 32.428379,
+            "latitude": 34.775387,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Czech Republic",
+            "longitude": 14.421389,
+            "latitude": 50.088612,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Democratic Republic of Congo",
+            "longitude": 15.313889,
+            "latitude": -4.331667,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Denmark",
+            "longitude": 12.569722,
+            "latitude": 55.679722,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Djibouti",
+            "longitude": 43.142502,
+            "latitude": 11.580600,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Dominica",
+            "longitude": -61.436943,
+            "latitude": 15.435833,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Dominican Republic",
+            "longitude": -69.910301,
+            "latitude": 18.474899,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "East Timor",
+            "longitude": 125.587997,
+            "latitude": -8.566190,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Ecuador",
+            "longitude": -79.897453,
+            "latitude": -2.203816,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Egypt",
+            "longitude": 33.811607,
+            "latitude": 27.257896,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "El Salvador",
+            "longitude": -88.176987,
+            "latitude": 13.473210,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Equatorial Guinea",
+            "longitude": 8.783333,
+            "latitude": 3.750000,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Eritrea",
+            "longitude": 38.918301,
+            "latitude": 15.331500,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Estonia",
+            "longitude": 23.541529,
+            "latitude": 58.939285,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Ethiopia",
+            "longitude": 38.757500,
+            "latitude": 9.008400,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Faroe Islands",
+            "longitude": -6.771879,
+            "latitude": 62.017708,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Fiji",
+            "longitude": 177.372177,
+            "latitude": -17.785290,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Finland",
+            "longitude": 24.938400,
+            "latitude": 60.169800,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "France",
+            "longitude": -0.045600,
+            "latitude": 43.098099,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Francigena way",
+            "longitude": 12.482200,
+            "latitude": 41.895401,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "French Antilles",
+            "longitude": -61.490589,
+            "latitude": 16.209698,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "French Guiana",
+            "longitude": -52.330330,
+            "latitude": 4.934610,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "French Polynesia",
+            "longitude": -151.741455,
+            "latitude": -16.499958,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Gabon",
+            "longitude": 9.449600,
+            "latitude": 0.385800,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Georgia",
+            "longitude": 44.792999,
+            "latitude": 41.709980,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Germany",
+            "latitude": 51,
+            "longitude": 9,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Ghana",
+            "longitude": -0.206500,
+            "latitude": 5.544700,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Gibraltar",
+            "longitude": -5.351924,
+            "latitude": 36.129257,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Greece",
+            "longitude": 19.917868,
+            "latitude": 39.592758,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Greenland",
+            "longitude": -51.086170,
+            "latitude": 69.210907,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Grenada",
+            "longitude": -61.741028,
+            "latitude": 12.014714,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Guam",
+            "longitude": 144.810318,
+            "latitude": 13.512945,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Guatemala",
+            "longitude": -90.532822,
+            "latitude": 14.624795,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Guinea",
+            "longitude": -13.678470,
+            "latitude": 9.537029,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Guinea-Bissau",
+            "longitude": -15.600443,
+            "latitude": 11.869031,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Guyana",
+            "longitude": -58.154831,
+            "latitude": 6.804611,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Haiti",
+            "longitude": -72.336411,
+            "latitude": 18.539268,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Honduras",
+            "longitude": -87.177284,
+            "latitude": 14.111230,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Hong Kong",
+            "longitude": 114.161568,
+            "latitude": 22.282459,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Hungary",
+            "longitude": 19.049999,
+            "latitude": 47.500000,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Iceland",
+            "longitude": -21.932251,
+            "latitude": 64.143631,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "India",
+            "longitude": 73.958336,
+            "latitude": 15.271944,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Indonesia",
+            "longitude": 115.174095,
+            "latitude": -8.700997,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Iran",
+            "longitude": 51.422943,
+            "latitude": 35.696217,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Iraq",
+            "longitude": 44.422989,
+            "latitude": 33.323643,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Ireland",
+            "longitude": -6.260310,
+            "latitude": 53.349804,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Israel",
+            "longitude": 35.216667,
+            "latitude": 31.783333,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Italy",
+            "longitude": 12.338276,
+            "latitude": 45.434059,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Ivory Coast",
+            "longitude": -4.030500,
+            "latitude": 5.332000,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Jamaica",
+            "longitude": -78.347862,
+            "latitude": 18.278196,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Japan",
+            "longitude": 135.768036,
+            "latitude": 35.011635,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Jordan",
+            "longitude": 35.441944,
+            "latitude": 30.328611,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Kazakhstan",
+            "longitude": 71.446686,
+            "latitude": 51.179852,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Kenya",
+            "longitude": 39.752232,
+            "latitude": -3.971990,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Kosovo",
+            "longitude": 20.724167,
+            "latitude": 42.212460,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Kuwait",
+            "longitude": 47.977371,
+            "latitude": 29.375486,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Kyrgyzstan",
+            "longitude": 74.587883,
+            "latitude": 42.870022,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Laos",
+            "longitude": 102.137802,
+            "latitude": 19.892159,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Latvia",
+            "longitude": 24.112638,
+            "latitude": 56.951218,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Lebanon",
+            "longitude": 35.506672,
+            "latitude": 33.896866,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Lesotho",
+            "longitude": 27.483263,
+            "latitude": -29.314186,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Lesser Antilles",
+            "longitude": -63.113384,
+            "latitude": 18.171509,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Liberia",
+            "longitude": -10.797160,
+            "latitude": 6.300774,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Libya",
+            "longitude": 13.189700,
+            "latitude": 32.882999,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Liechtenstein",
+            "longitude": 9.521480,
+            "latitude": 47.141075,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Lithuania",
+            "longitude": 25.279957,
+            "latitude": 54.689461,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Luxembourg",
+            "longitude": 6.028509,
+            "latitude": 50.056007,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Madagascar",
+            "longitude": 49.716667,
+            "latitude": -13.366667,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Malawi",
+            "longitude": 34.459499,
+            "latitude": -13.783200,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Malaysia",
+            "longitude": 101.686852,
+            "latitude": 3.139003,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Maldives",
+            "longitude": 73.519897,
+            "latitude": 4.226620,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Mali",
+            "longitude": -7.986400,
+            "latitude": 12.653000,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Malta",
+            "longitude": 14.492760,
+            "latitude": 35.919109,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Mauritania",
+            "longitude": -16.021000,
+            "latitude": 18.316799,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Mauritius",
+            "longitude": 57.363293,
+            "latitude": -20.298151,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Mexico",
+            "longitude": -99.133102,
+            "latitude": 19.432884,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Micronesia",
+            "longitude": 158.215195,
+            "latitude": 6.982972,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Moldova",
+            "longitude": 28.849741,
+            "latitude": 47.016716,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Monaco",
+            "longitude": 7.428400,
+            "latitude": 43.742199,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Mongolia",
+            "longitude": 106.921997,
+            "latitude": 47.913799,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Montenegro",
+            "longitude": 19.270126,
+            "latitude": 42.442486,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Montserrat (UK)",
+            "longitude": -62.215736,
+            "latitude": 16.706524,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Morocco",
+            "longitude": -7.992472,
+            "latitude": 31.629511,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Mozambique",
+            "longitude": 32.580399,
+            "latitude": -25.968599,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Myanmar",
+            "longitude": 95.466667,
+            "latitude": 21.366667,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Namibia",
+            "longitude": 17.080500,
+            "latitude": -22.574900,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Nauru",
+            "longitude": 166.920868,
+            "latitude": -0.547700,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Nepal",
+            "longitude": 83.985008,
+            "latitude": 28.202564,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Netherlands",
+            "longitude": 4.892507,
+            "latitude": 52.373215,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Netherlands Antilles",
+            "longitude": -68.933479,
+            "latitude": 12.103441,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "New Caledonia",
+            "longitude": 166.470306,
+            "latitude": -22.235491,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "New Zealand",
+            "longitude": 176.070206,
+            "latitude": -38.685692,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Nicaragua",
+            "longitude": -85.959862,
+            "latitude": 11.927990,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Niger",
+            "longitude": 2.112608,
+            "latitude": 13.513832,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Nigeria",
+            "longitude": 3.356560,
+            "latitude": 6.601069,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Norfolk Island",
+            "longitude": 167.949966,
+            "latitude": -29.033022,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Northern Mariana Islands",
+            "longitude": 145.764999,
+            "latitude": 15.193458,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Norway",
+            "longitude": 25.983059,
+            "latitude": 70.976021,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Oman",
+            "longitude": 58.539906,
+            "latitude": 23.616217,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Pakistan",
+            "longitude": 74.340683,
+            "latitude": 31.545050,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Palau",
+            "longitude": 134.484604,
+            "latitude": 7.343782,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Panama",
+            "longitude": -79.518791,
+            "latitude": 8.994269,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Papua New Guinea",
+            "longitude": 147.196899,
+            "latitude": -9.465590,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Paraguay",
+            "longitude": -54.620464,
+            "latitude": -25.524248,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Peru",
+            "longitude": -77.043129,
+            "latitude": -12.051725,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Philippines",
+            "longitude": 118.785507,
+            "latitude": 9.967216,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Poland",
+            "longitude": 18.652950,
+            "latitude": 54.350269,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Portugal",
+            "longitude": -8.010903,
+            "latitude": 39.241936,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Puerto Rico",
+            "longitude": -65.653252,
+            "latitude": 18.328079,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Qatar",
+            "longitude": 51.531502,
+            "latitude": 25.285299,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Republic of Macedonia",
+            "longitude": 20.807562,
+            "latitude": 41.118805,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Réunion",
+            "longitude": 55.228683,
+            "latitude": -21.053875,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Romania",
+            "longitude": 28.644321,
+            "latitude": 44.211472,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Russia",
+            "longitude": 30.319721,
+            "latitude": 59.930000,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Rwanda",
+            "longitude": 30.061880,
+            "latitude": -1.944130,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Saint Kitts and Nevis",
+            "longitude": -62.685749,
+            "latitude": 17.292200,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Saint Lucia",
+            "longitude": -61.006386,
+            "latitude": 13.995575,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Saint Vincent and the Grenadines",
+            "longitude": -61.265282,
+            "latitude": 13.203470,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "San Marino (Country)",
+            "longitude": 12.445353,
+            "latitude": 43.942310,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Saudi Arabia",
+            "longitude": 39.806801,
+            "latitude": 21.440901,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Senegal",
+            "longitude": -17.018242,
+            "latitude": 14.444691,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Serbia",
+            "longitude": 20.462465,
+            "latitude": 44.820492,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Seychelles",
+            "longitude": 55.722221,
+            "latitude": -4.331111,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Singapore",
+            "longitude": 103.850807,
+            "latitude": 1.283803,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Sint Maarten",
+            "longitude": -63.045830,
+            "latitude": 18.030203,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Slovak Republic",
+            "longitude": 17.104460,
+            "latitude": 48.145603,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Slovenia",
+            "longitude": 14.114580,
+            "latitude": 46.368328,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Solomon Islands",
+            "longitude": 159.949066,
+            "latitude": -9.429588,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "South Africa",
+            "longitude": 28.040001,
+            "latitude": -26.190001,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "South Korea",
+            "longitude": 128.346603,
+            "latitude": 36.123501,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Spain",
+            "longitude": -3.703362,
+            "latitude": 40.416981,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Sri Lanka",
+            "longitude": 80.637459,
+            "latitude": 7.284459,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Sudan",
+            "longitude": 32.532463,
+            "latitude": 15.552268,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Suriname",
+            "longitude": -55.167881,
+            "latitude": 5.823201,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Swaziland",
+            "longitude": 31.141001,
+            "latitude": -26.318600,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Sweden",
+            "longitude": 18.054342,
+            "latitude": 59.335007,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Switzerland",
+            "longitude": 6.146000,
+            "latitude": 46.202801,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Syria",
+            "longitude": 36.300163,
+            "latitude": 33.514614,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Taiwan Republic of China",
+            "longitude": 120.941734,
+            "latitude": 24.233208,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Tajikistan",
+            "longitude": 68.773804,
+            "latitude": 38.573700,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Tanzania",
+            "longitude": 39.202641,
+            "latitude": -6.165917,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Thailand",
+            "longitude": 98.296700,
+            "latitude": 7.894000,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "The Gambia",
+            "longitude": -16.713381,
+            "latitude": 13.452540,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Togo",
+            "longitude": 1.225500,
+            "latitude": 6.122800,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Tonga",
+            "longitude": -175.200272,
+            "latitude": -21.133183,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Transromanica",
+            "longitude": 13.730188,
+            "latitude": 45.548058,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Trinidad and Tobago",
+            "longitude": -61.478912,
+            "latitude": 10.659567,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Tunisia",
+            "longitude": 10.645150,
+            "latitude": 35.823448,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Turkey",
+            "longitude": 31.055010,
+            "latitude": 36.862820,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Turkmenistan",
+            "longitude": 58.379398,
+            "latitude": 37.950901,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Turks and Caicos Islands",
+            "longitude": -72.268059,
+            "latitude": 21.773333,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Tuvalu",
+            "longitude": 178.378555,
+            "latitude": -8.063791,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Uganda",
+            "longitude": 32.579899,
+            "latitude": 0.315169,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Ukraine",
+            "longitude": 24.029272,
+            "latitude": 49.839157,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "United Arab Emirates",
+            "longitude": 55.290001,
+            "latitude": 25.264168,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "United Kingdom",
+            "longitude": -0.127668,
+            "latitude": 51.507359,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Uruguay",
+            "longitude": -56.155998,
+            "latitude": -34.894299,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "US Virgin Islands",
+            "longitude": -64.704262,
+            "latitude": 17.746490,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "USA",
+            "longitude": -118.399445,
+            "latitude": 34.073334,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Uzbekistan",
+            "longitude": 71.786377,
+            "latitude": 40.386410,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Vanuatu",
+            "longitude": 168.320999,
+            "latitude": -17.740391,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Vatican City",
+            "longitude": 12.453389,
+            "latitude": 41.902916,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Venezuela",
+            "longitude": -66.915337,
+            "latitude": 10.501967,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Vietnam",
+            "longitude": 105.839180,
+            "latitude": 21.031937,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Western Sahara",
+            "longitude": -15.916443,
+            "latitude": 23.746048,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Western Samoa",
+            "longitude": -171.779007,
+            "latitude": -14.008000,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Yemen",
+            "longitude": 45.033348,
+            "latitude": 12.796921,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Zambia",
+            "longitude": 25.855270,
+            "latitude": -17.853531,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        },
+        {
+            "type": "port",
+            "name": "Zimbabwe",
+            "longitude": 25.839100,
+            "latitude": -17.931801,
+            "icon": "",
+            "offer": "0",
+            "demand": "0"
+        }
+    ]}
